@@ -15,7 +15,7 @@ tr:nth-child(odd) {
 	background-color: #8cb3d9
 }
 div > p {
-	font-family: georgia;
+	font-family: 'Lucida Bright';
 	text-align: justify;
 	margin: 10px 250px 10px 250px
 }
